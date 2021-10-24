@@ -3,7 +3,7 @@
 ember generate component nome_do_componente
 ```
 
-# Cria um arquivo JavaScript para o componenete
+# Cria um arquivo JavaScript para o componente
 ```
 ember generate component-class nome_do_componente
 ```
