@@ -7,6 +7,9 @@ ember generate component nome_do_componente
 ```
 ember generate component-class nome_do_componente
 ```
+```
+ember generate component share-button --with-component-class 
+```
 
 # @tracked
 
