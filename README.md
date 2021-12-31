@@ -19,3 +19,5 @@ ember generate route nome-da-rota
 
 O resultado final foi uma aplicação onde o usuário pode visualizar locais para locação em uma região.
 
+<img src="https://i.ibb.co/vwF2Vwq/localhost-4200.png" alt="localhost-4200" border="0" width="500">
+<img src="https://i.ibb.co/BGnXJ4m/localhost-4200-rentals-grand-old-mansion.png" alt="localhost-4200-rentals-grand-old-mansion" border="0" width="500">
