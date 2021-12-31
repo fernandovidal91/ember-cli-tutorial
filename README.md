@@ -4,7 +4,7 @@ O principal objetivo ao desenvolver esta aplicação é adquirir conhecimento no
 
 ## Oque foi aprendido?
 
-Durante o tutorial foi apresentado como o framework funciona e alguns de seus conceitos como criação de componentes e o por que utilizalos, criação de rotas, hooks, conexão com API's externas e consumo de dados com ember data. Segue abaixo alguns dos comandos aprendido durante o tutorial.
+Durante o tutorial foi apresentado como o framework funciona e alguns de seus conceitos como criação de componentes e o por que utilizá-los, criação de rotas, hooks, conexão com API's externas e consumo de dados com ember data. Segue abaixo alguns dos comandos aprendido durante o tutorial.
 
 ```
 criar um projeto ember
