@@ -1,23 +1,21 @@
-# Cria um novo componente
+## Obejetivo
+
+O principal objetivo ao desenvolver esta aplicação é adquirir conhecimento no framework Ember, utilizado para a contrução de interfaces do nela.
+
+## Oque foi aprendido?
+
+Durante o tutorial foi apresentado como o framework funciona e alguns de seus conceitos como criação de componentes e o por que utilizalos, criação de rotas, hooks, conexão com API's externas e consumo de dados com ember data. Segue abaixo alguns dos comandos aprendido durante o tutorial.
+
 ```
-ember generate component nome_do_componente
+criar um projeto ember
+ember new nome-da-aplicação
+
+gerar um novo componente com sua classe
+ember generate component nome-do-componente --with-class-component
+
+gerar um arquivo de rota
+ember generate route nome-da-rota
 ```
 
-# Cria um arquivo JavaScript para o componente
-```
-ember generate component-class nome_do_componente
-```
-```
-ember generate component share-button --with-component-class 
-```
+O resultado final foi uma aplicação onde o usuário pode visualizar locais para locação em uma região.
 
-# @tracked
-
-Esta anotação diz ao Ember para monitorar esta variável para atualizações. Sempre que o valor desta variável muda, o Ember irá automaticamente renderizar novamente todos os modelos que dependem de seu valor.
-
-
-
-
-
-
-Dar um log pra ver se atualiza todo o componente
