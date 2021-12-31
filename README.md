@@ -1,4 +1,4 @@
-## Obejetivo
+## Objetivo
 
 O principal objetivo ao desenvolver esta aplicação é adquirir conhecimento no framework Ember, utilizado para a contrução de interfaces do nela.
 
